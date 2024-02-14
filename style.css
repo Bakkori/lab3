@@ -1,0 +1,8 @@
+.image-preview img {
+    width: 150px;
+    height: 200px;
+    border-right: solid 30px lightpink;
+    border-top: solid 30px skyblue;
+    border-left: solid 30px #ffefd5;
+    border-bottom: solid 30px lightgreen;
+}
